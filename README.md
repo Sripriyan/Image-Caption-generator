@@ -1,4 +1,4 @@
-# Image Captionin Generator
+# Image Caption Generator
 
 ## Overview
 This project focuses on building an image captioning system using Python. The system processes images and generates descriptive captions, leveraging various libraries and tools to achieve this functionality.
