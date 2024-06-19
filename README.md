@@ -1,4 +1,4 @@
-# Image Captioning Notebook
+# Image Captionin Generator
 
 ## Overview
 Welcome to my Image Captioning notebook! This project focuses on building an image captioning system using Python. The system processes images and generates descriptive captions, leveraging various libraries and tools to achieve this functionality.
