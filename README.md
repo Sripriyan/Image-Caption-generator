@@ -1,7 +1,3 @@
-Of course! Here is the revised README file with your personalized details:
-
----
-
 # Bhashini Notebook
 
 ## Overview
@@ -79,9 +75,8 @@ def text_to_speech(text, source_lang='hi', target_lang='pa'):
     pass
 ```
 
+## License
+This project is licensed under the MIT License. For more details, check out the [LICENSE](LICENSE) file.
+
 ## Acknowledgements
 A big thank you to OpenAI for providing the awesome API that made this notebook possible, and to Bhashini and ULCA for their powerful language processing models!
-
----
-
-Feel free to tweak this to better fit your style or to add any additional details you think are important.
